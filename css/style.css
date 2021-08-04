@@ -1,5 +1,19 @@
-.blog{
+.blogA{
   background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  border-color: black;
+  border-style: dotted;
+}
+.blogB{
+  background-color: rgb(34, 77, 14);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  border-color: black;
+  border-style: dotted;
+}
+.blogC{
+  background-color: rgb(163, 59, 27);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   border-color: black;
